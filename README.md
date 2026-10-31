@@ -88,7 +88,7 @@ Please cite both the software and the paper. Machine-readable metadata is in
 
 > Woolman, T. A. (2026). *Analysis code for lithologic period and yttrium
 > enrichment in western United States stream sediments* (Version 1.0.0)
-> [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23849075
 
 ## Scope
 

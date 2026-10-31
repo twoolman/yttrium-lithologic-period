@@ -8,12 +8,23 @@ message: >-
 type: software
 authors:
   - family-names: Woolman
-    given-names: Thomas
-    name-particle: A.
+    given-names: Thomas A.
     orcid: "https://orcid.org/0000-0002-4120-2157"
     affiliation: "On Target Technologies, Inc., Ridgeley, West Virginia, USA"
     email: twoolman@ontargettek.com
 repository-code: "https://github.com/twoolman/yttrium-lithologic-period"
+doi: 10.5281/zenodo.23849075
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23849075
+    description: >-
+      Zenodo archive of version 1.0.0, which is the version that
+      produced the results reported in the accompanying paper
+  - type: doi
+    value: 10.5281/zenodo.23849074
+    description: >-
+      Concept DOI, which represents all versions and always resolves
+      to the most recent one
 license: MIT
 version: 1.0.0
 date-released: "2026-10-31"
