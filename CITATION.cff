@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for lithologic period and yttrium enrichment in
+  western United States stream sediments
+message: >-
+  If you use this software, please cite it using the metadata from
+  this file, and cite the accompanying paper.
+type: software
+authors:
+  - family-names: Woolman
+    given-names: Thomas
+    name-particle: A.
+    orcid: "https://orcid.org/0000-0002-4120-2157"
+    affiliation: "On Target Technologies, Inc., Ridgeley, West Virginia, USA"
+    email: twoolman@ontargettek.com
+repository-code: "https://github.com/twoolman/yttrium-lithologic-period"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-31"
+keywords:
+  - heavy rare earth elements
+  - yttrium
+  - stream sediment geochemistry
+  - Mesoproterozoic
+  - ferroan granite
+  - permutation testing
+abstract: >-
+  Analysis pipeline for a study testing whether the lithologic period of
+  intrusive igneous terrain predicts acid-leachable yttrium concentration in
+  the stream sediment draining it, using 32,221 reanalyzed NURE-HSSR samples
+  across six western United States states. Significance is assessed by a
+  blocked permutation test that permutes the period label by 150 kilometer
+  spatial blocks within state, preserving both the spatial structure and the
+  provincial composition of the sample.
